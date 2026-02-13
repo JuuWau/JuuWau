@@ -34,25 +34,21 @@ Gosto de transformar problemas em soluções eficientes, prezando por código li
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuuWau&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuuWau&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://streak-stats.demolab.com?user=JuuWau&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
