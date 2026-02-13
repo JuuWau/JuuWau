@@ -37,17 +37,9 @@ Gosto de transformar problemas em soluções eficientes, prezando por código li
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuuWau&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuuWau&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuuWau&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuuWau&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JuuWau&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuuWau&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
